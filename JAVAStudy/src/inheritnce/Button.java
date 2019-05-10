@@ -1,6 +1,6 @@
 package inheritnce;
-
-public class Button {
+     
+public class Button      {
 	void setOnClickListener(setOnClickListener ol) {
 		ol.onClick();
 	}
